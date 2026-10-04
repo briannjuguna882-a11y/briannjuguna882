@@ -20,6 +20,11 @@
 * 📧 **Email:** briannjuguna882@gmail.com
 * 💼 **LinkedIn:** [Ryan Karis](https://linkedin.com)
 
+
+- 🌐 [My Personal Website](https://briannjuguna882.github.io)
+- 📝 [Markdown Practice](markdown-practice.md)
+
+
 ---
 
 ## Setup
