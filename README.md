@@ -24,7 +24,6 @@
 - 🌐 [My Personal Website](https://briannjuguna882.github.io)
 - 📝 [Markdown Practice](markdown-practice.md)
 
-
 ---
 
 ## Setup
