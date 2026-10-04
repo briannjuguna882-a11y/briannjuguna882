@@ -1,28 +1,28 @@
-Hi, I'm Brian 👋
+# Hi, I'm Brian 👋
 
-About Me
+## About Me
 * 📊 Professional trader and investor.
 * 💻 Learning software development and algorithmic trading.
 * 🤖 Building automated trading bots.
 * ⚙️ Mechanical Engineer passionate about technology and innovation.
 
-Skills I'm Building
+## Skills I'm Building
 * Python
 * HTML & CSS
 * Git & GitHub
 * Algorithmic Trading
 * Data Analysis
 
-Current Projects
+## Current Projects
 * 📉 **Trading Bot** – Developing an automated bot for analyzing financial markets and executing trading strategies.
 
-How to Reach Me
+## How to Reach Me
 * 📧 **Email:** briannjuguna882@gmail.com
 * 💼 **LinkedIn:** [Ryan Karis](https://linkedin.com)
 
 ---
 
-Setup
+## Setup
 
 ```text
 filter.lfs.clean=git-lfs clean -- %f
