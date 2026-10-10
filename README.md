@@ -20,7 +20,6 @@
 * 📧 **Email:** briannjuguna882@gmail.com
 * 💼 **LinkedIn:** [Ryan Karis](https://linkedin.com)
 
-
 ## Links
 
 - 🌐 [My GitHub Pages Website](https://briannjuguna882-a11y.github.io/)
