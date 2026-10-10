@@ -48,12 +48,11 @@ I am **passionate** about *trading* and learning `Python` to build automated tra
 
 ## Code Block
 
-```python
 def trading_bot():
     print("My trading bot is running!")
 
 trading_bot()
-```
+
 
 ## Blockquote
 
