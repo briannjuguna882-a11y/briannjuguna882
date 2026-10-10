@@ -22,7 +22,7 @@
 
 ## Links
 
-- 🌐 [My GitHub Pages Website](https://briannjuguna882-a11y.github.io/)
+- 🌐 [My Personal Website](https://briannjuguna882-a11y.github.io/)
 - 📝 [Markdown Practice](markdown-practice.md)
 - 👥 [Week 0 Team Repository](https://github.com/briannjuguna882-a11y/iyf-s12-week-00-team-briannjuguna882-a11y)
 
