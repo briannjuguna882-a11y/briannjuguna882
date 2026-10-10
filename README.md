@@ -40,7 +40,7 @@
 
 - **Team Repository:** [IYF S12 Week 00 Team Repository](https://github.com/briannjuguna882-a11y/iyf-s12-week-00-team-briannjuguna882-a11y)
 - **My Pull Request:** [PR #6 — Add Resources section](https://github.com/briannjuguna882-a11y/iyf-s12-week-00-team-briannjuguna882-a11y/pull/6)
-- **PR I Reviewed:** Add the link to the pull request you reviewed.
+- **PR I Reviewed:** [PR #9 — Add images to the VS Code section](https://github.com/briannjuguna882-a11y/iyf-s12-week-00-team-briannjuguna882-a11y/pull/9)
 - **Merge Conflict Exercise:** Add the link to the pull request where you resolved the merge conflict.
 - **My Issues:** [Issue #4 — Add a Resources section](https://github.com/briannjuguna882-a11y/iyf-s12-week-00-team-briannjuguna882-a11y/issues/4), [Issue #5 — Proofread and fix typos](https://github.com/briannjuguna882-a11y/iyf-s12-week-00-team-briannjuguna882-a11y/issues/5)
 - **PR Closing an Issue:** [PR #6](https://github.com/briannjuguna882-a11y/iyf-s12-week-00-team-briannjuguna882-a11y/pull/6) — Resources section added; see PR description for its closing reference.
