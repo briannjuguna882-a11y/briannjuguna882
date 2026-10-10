@@ -21,18 +21,18 @@
 * 💼 **LinkedIn:** [Ryan Karis](https://linkedin.com)
 
 
-- 🌐 [My Personal Website](https://briannjuguna882.github.io)
+## Links
+
+- 🌐 [My GitHub Pages Website](https://briannjuguna882-a11y.github.io/)
 - 📝 [Markdown Practice](markdown-practice.md)
+- 👥 [Week 0 Team Repository](https://github.com/briannjuguna882-a11y/iyf-s12-week-00-team-briannjuguna882-a11y)
 
----
+## Week 0 Team
 
-## Setup
-
-```text
-filter.lfs.clean=git-lfs clean -- %f
-filter.lfs.smudge=git-lfs smudge -- %f
-filter.lfs.process=git-lfs filter-process
-filter.lfs.required=true
-user.name=brianjuguna882-a11y
-user.email=briannjuguna882@gmail.com
-```
+- **Team Members:** [wycliffe12](https://github.com/wycliffe12) and other team members as applicable
+- **Team Repository:** [IYF S12 Week 00 Team](https://github.com/briannjuguna882-a11y/iyf-s12-week-00-team-briannjuguna882-a11y)
+- **My Pull Request:** [Add Resources Section](https://github.com/briannjuguna882-a11y/iyf-s12-week-00-team-briannjuguna882-a11y/pulls)
+- **PR I Reviewed:** Add the exact link to the pull request you reviewed.
+- **Merge Conflict PR:** Add the exact link to the pull request used for the merge-conflict exercise.
+- **My Issues:** Add links to your two issues.
+- **PR Closing an Issue:** Add the exact merged PR link containing 
